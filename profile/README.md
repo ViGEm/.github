@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[This organisation has been retired](https://docs.nefarius.at/projects/ViGEm/End-of-Life/) and all its past repositories have been moved over to [Nefarius' account](https://github.com/nefarius).
+
 <!--
 
 **Here are some ideas to get you started:**
